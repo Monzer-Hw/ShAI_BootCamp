@@ -56,6 +56,3 @@ Models implemented and their RMSE scores:
 - Monzer Hweit
 - Alaa Odat
 - Mariam Zaki
-
-## License
-[Insert chosen license here]
