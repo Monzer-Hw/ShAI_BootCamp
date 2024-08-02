@@ -1,7 +1,7 @@
 # Diamond Price Prediction
 
 ## Overview
-This project focuses on predicting diamond prices using various machine learning models. The Data Wizards team, consisting of Monzer Hweit, Alaa Odat, and Mariam Zaki, conducted this analysis.
+This project focuses on predicting diamond prices using various machine learning models.
 
 ## Table of Contents
 1. [Data Discovery](#data-discovery)
@@ -51,8 +51,3 @@ Models implemented and their RMSE scores:
 1. Clone the repository
 2. Install required libraries: `pip install -r requirements.txt`
 3. Run the Jupyter notebook or Python script
-
-## Contributors
-- Monzer Hweit
-- Alaa Odat
-- Mariam Zaki
