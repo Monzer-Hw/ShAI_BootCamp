@@ -48,6 +48,6 @@ Models implemented and their RMSE scores:
 - Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib, xgboost
 
 ## Usage
-1. Clone the repository
-2. Install required libraries: `pip install -r requirements.txt`
-3. Run the Jupyter notebook or Python script
+1. Clone the repository.
+2. Install required libraries.
+3. Run the Jupyter notebook or Python script.
