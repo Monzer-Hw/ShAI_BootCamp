@@ -50,4 +50,4 @@ Models implemented and their RMSE scores:
 ## Usage
 1. Clone the repository.
 2. Install required libraries.
-3. Run the Jupyter notebook or Python script.
+3. Run the Jupyter notebook.
